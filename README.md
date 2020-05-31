@@ -1,4 +1,4 @@
-# PyDa.py
+# PyDictionary.py
 Code for offline Dictionary
 
 ### install this to your command prompt
